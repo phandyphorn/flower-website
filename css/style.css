@@ -77,12 +77,11 @@ img {
     grid-area: p12;
 }
 .active {
-    width: 100px;
+    
     background: green;
-    padding: 10px;
+    padding: 5px;
 }
 .navbar {
     background: hotpink;
-    height: 20vh;
-    line-height: 20vh;
+    
 }

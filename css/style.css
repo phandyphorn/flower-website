@@ -76,3 +76,8 @@ img {
 .p12 {
     grid-area: p12;
 }
+.active {
+    width: 50px;
+    background: green;
+    padding: 10px;
+}
